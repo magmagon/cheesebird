@@ -11,3 +11,8 @@ BIRD
 *   CHIRP
     
 *   SQUEAK
+    
+    | DONUT | Melon | BANANA | PUMPKIN |
+    | --- | --- | --- | --- |
+    | Gray | Pink | Yellow | Green |
+    | Fat | Scaredy-cat | Lazy | Mischievous |
