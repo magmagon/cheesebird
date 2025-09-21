@@ -11,7 +11,6 @@ content:
     fields:
       - { name: author, label: Author, type: string }
       - { name: pubDatetime, label: Date, type: date }
-      - { name: modDatetime, label: Date, type: date }
       - { name: title, label: Title, type: string, required: true }
       - { name: ogImage, label: Title, type: string }
       - { name: slug, label: Slug, type: string }
