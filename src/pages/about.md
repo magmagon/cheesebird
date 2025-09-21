@@ -5,3 +5,9 @@ title: About
 BIRD
 
 ![](/PXL_20250807_014659859.jpg)
+
+*   SQUAWK
+    
+*   CHIRP
+    
+*   SQUEAK
